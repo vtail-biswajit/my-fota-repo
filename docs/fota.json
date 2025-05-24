@@ -1,5 +1,5 @@
 {
   "type":    "my-device-type",
   "version": "1.1.0",
-  "url":     "https://<your-username>.github.io/my-fota-repo/firmware-v1.0.0.bin"
+  "url":     "https://vtail-biswajit.github.io/my-fota-repo/firmware-v1.1.0.bin"
 }
